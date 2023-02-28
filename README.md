@@ -32,7 +32,7 @@
 | 29 |	PRAJJWAL DEEP GHOSH (RA2011003010482) | [Link]() | 1 | |
 | 30 |	PRATEEK N (RA2011003010491) | [Link]() | 1 | |
 | 31 |	AYUSH ABHIGYAN (RA2011003010493) | [Link]() | 1 | |
-| 32 |	AFRAZ TANVIR (RA2011003010499) | [Link]() | 1 | |
+| 32 |	AFRAZ TANVIR (RA2011003010499) | [Link](https://a-tanz.github.io/18CSE301J_RA2011003010499/) | 1 | :white_check_mark: |
 | 33 |	SOHAM GHOSH (RA2011003010504) | [Link]() | 1 | |
 | 34 |	SUYASH JOSHI (RA2011003010508) | [Link]() | 1 | |
 | 35 |	BASIT HASAN (RA2011003010532) | [Link]() | 1 | |
